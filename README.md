@@ -11,7 +11,7 @@
 
 ### Вербальний опис моделі:
 
-Модель описана у [першій лабораторній](https://github.com/Formandk/KSIM_lab_3).
+Модель описана у [першій лабораторній](https://github.com/Formandk/KSIM_lab_1).
 
 
 ### Налаштування середовища BehaviorSearch:
